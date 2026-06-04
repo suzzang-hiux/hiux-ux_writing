@@ -1,0 +1,15 @@
+{
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/src/styles/css",
+            "savePathReplacementPairs": null
+        }
+    ],
+    "liveSassCompile.settings.autoprefix": [
+    
+        
+    ],
+    "liveServer.settings.port": 5501
+}
